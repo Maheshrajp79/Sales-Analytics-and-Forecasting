@@ -11,3 +11,7 @@ This project had three major tasks:
 2) Date type of Date, Time, and Rating were changed to their respective type.
 3) An interactive dashboard with a donut chart was built to show the relationship between Payment type and sales.
 4) Line chart shows the Forecasting/Prediction of future sales.
+
+
+*Link of the report*
+https://app.powerbi.com/view?r=eyJrIjoiYjg4YjQyYjktMWZlYy00YTBmLTljZjYtMmJkMzhmN2ZkNGRlIiwidCI6ImQ2OWNjN2NhLTgyODEtNDgxMi05OTQ5LWQ3MTVhNGJiNGU5NSJ9&pageName=ReportSection
