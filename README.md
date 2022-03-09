@@ -6,7 +6,7 @@ This project had three major tasks:
 2) Building a dashboard that shows the relationship between different payment methods and sales.
 3) Forecasting/Predicting Future Sales.
 
-*Solution*
+### *Solution*
 1) The Unit price, Total, and Customer type had some unnecessary data that had to be removed before doing further analysis.
 2) Date type of Date, Time, and Rating were changed to their respective type.
 3) An interactive dashboard with a donut chart was built to show the relationship between Payment type and sales.
