@@ -1,6 +1,6 @@
 # Sales-Analytics-and-Forecasting
 
-*Project goal*
+### *Project goal*
 This project had three major tasks:
 1) Cleaning the data and assigning the correct data type to each column.
 2) Building a dashboard that shows the relationship between different payment methods and sales.
@@ -13,5 +13,5 @@ This project had three major tasks:
 4) Line chart shows the Forecasting/Prediction of future sales.
 
 
-*Link of the report*
+### *Link of the report*
 https://app.powerbi.com/view?r=eyJrIjoiYjg4YjQyYjktMWZlYy00YTBmLTljZjYtMmJkMzhmN2ZkNGRlIiwidCI6ImQ2OWNjN2NhLTgyODEtNDgxMi05OTQ5LWQ3MTVhNGJiNGU5NSJ9&pageName=ReportSection
